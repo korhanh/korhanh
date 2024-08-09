@@ -1,28 +1,56 @@
-
-<h1 align="center">Hello 👋, I'm Hüseyin Korhan</h1>
-<h3 align="center">A passionate Power Platform Developer with a global perspective</h3>
+<h1 align="center">🌍 Hello World, I'm Hüseyin Korhan 🌍</h1>
+<h3 align="center">🌟 Power Platform Devoloper | Global IT Business Developer 🌟</h3>
 
 <p align="center">
-I specialize in Power Platform, particularly Power Automate and Power Apps, where I excel at integrating these tools to create efficient solutions and enhance project capabilities with Python. My dedication to staying up-to-date with the latest technological trends enables me to provide innovative and practical solutions to diverse challenges
-</p>
-<p align="center">
-- 📫 Feel free to reach out to me at **huseyin_korhan@zetaleap.com**
+  <img src="https://img.shields.io/badge/Power_Platform-Expertise-blue?style=flat&logo=microsoft-powerapps" alt="Power Platform Badge"/>
+  <img src="https://img.shields.io/badge/Global_Perspective-%E2%9C%85-ff69b4?style=flat&logo=world" alt="Global Perspective Badge"/>
+  <img src="https://img.shields.io/badge/Python-Integrator-%233776AB?style=flat&logo=python" alt="Python Badge"/>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+  🚀 I'm passionate about harnessing the power of the <strong>Power Platform</strong> to deliver cutting-edge solutions. My work primarily focuses on <strong>Power Automate</strong> and <strong>Power Apps</strong>, where I integrate these tools with Python to create seamless and efficient processes. Staying on top of the latest trends, I aim to provide innovative, practical solutions that drive business success globally.
+</p>
+
+<p align="center">
+  🌐 Feel free to reach out to me: <a href="mailto:huseyin_korhan@zetaleap.com"><strong>huseyin_korhan@zetaleap.com</strong></a>
+</p>
+
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/>
+</p>
+
+<h2 align="center">🔗 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/huseyinkorhan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/korhanh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" alt="GitHub Badge"/>
+  </a>
+</p>
+
+<h2 align="center">🌱 Currently Expanding My Expertise</h2>
+<p align="center">
+  As a dedicated IT Business Developer, I'm actively deepening my proficiency in <strong>AI integration</strong> within the Power Platform, focusing on how artificial intelligence can enhance automation processes, optimize workflows, and drive business insights. Additionally, I'm exploring advanced <strong>cloud-native solutions</strong> to ensure scalable, resilient, and secure environments that support modern enterprise needs.
+</p>
+
+<h2 align="center">💡 My Approach</h2>
+<p align="center">
+  At my core, I'm a strategic problem-solver. I believe in leveraging automation to eliminate repetitive tasks, allowing teams to concentrate on innovation and high-impact activities. My passion lies in transforming complex challenges into streamlined solutions that propel businesses forward.
 </p>
 
