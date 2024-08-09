@@ -15,24 +15,6 @@
   🌐 Feel free to reach out to me: <a href="mailto:huseyin_korhan@zetaleap.com"><strong>huseyin_korhan@zetaleap.com</strong></a>
 </p>
 
-<p align="center">
-  <a href="https://powerapps.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20Apps-%230072C6?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
-  </a>
-  <a href="https://flow.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20Automate-%230072C6?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
-  </a>
-  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20BI-%230072C6?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
-  </a>
-  <a href="https://powervirtualagents.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20Virtual%20Agents-%230072C6?style=for-the-badge&logo=power-virtual-agents&logoColor=white" alt="Power Virtual Agents" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/dataverse" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft%20Dataverse-%230072C6?style=for-the-badge&logo=dataverse&logoColor=white" alt="Microsoft Dataverse" />
-  </a>
-</p>
-
 <h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="center">
